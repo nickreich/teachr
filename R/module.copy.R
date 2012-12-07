@@ -10,6 +10,7 @@
 #' 
 #' @export
 module.copy <- function(mod, to) {
+        
         ## check to see if module already exists
         full.path <- paste(to, mod, sep="")
         if(file.exists(full.path)) {
