@@ -9,6 +9,7 @@
 #'    module.copy(mod="permTestExample", to="~/test")
 #'    
 module.copy <- function(mod, to) {
+        
         if(file.exists(to)) 
                 warning("overwriting existing 'to' path.")
         ## need to change above to include readlines() command to explicitly "okay" the overwriting 
