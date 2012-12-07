@@ -7,7 +7,8 @@
 \arguments{
   \item{mod}{module to be copied, specified in quotes}
 
-  \item{to}{path to which the module should be copied}
+  \item{to}{path to which the module should be copied,
+  should end with a folder name}
 }
 \value{
   NULL only moving files around
