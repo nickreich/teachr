@@ -1,6 +1,7 @@
 #Sample from a uniform distribution
 hist(runif(10000,0,1))
 qqnorm(runif(10000,0,1))
+#test
 
 #Number of simulations
 nsim<-1000
