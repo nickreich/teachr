@@ -29,4 +29,6 @@ Right now, the best ways to contribute a module are (1) via github or (2) via em
 
 # What format does a module need to be in?
 
+More coming soon.
+
 
