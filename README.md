@@ -22,6 +22,7 @@ A module is a set of teaching exercises/activities/assignments on a particular t
 
 # How do I use a module in my class?
 
+You are free to adapt and use any of the modules from teachr in your class. Please provide proper attribution by giving credit to the author of the module and to the teachr package.
 
 # How can I contribute a module to teachr?
 
@@ -29,6 +30,5 @@ Right now, the best ways to contribute a module are (1) via github or (2) via em
 
 # What format does a module need to be in?
 
-More coming soon.
-
+Modules have a standardized format. This will enable new users of a module to quickly and easily understand the goals and content of a module. It will also facilitate reporting and aggregation of module content (e.g. creating a script that makes a searchable/sortable database with module names and keywords).
 
