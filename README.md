@@ -30,5 +30,9 @@ Right now, the best ways to contribute a module are (1) via github or (2) via em
 
 # What format does a module need to be in?
 
-Modules have a standardized format. This will enable new users of a module to quickly and easily understand the goals and content of a module. It will also facilitate reporting and aggregation of module content (e.g. creating a script that makes a searchable/sortable database with module names and keywords).
+Modules have a standardized format. This will enable new users of a module to quickly and easily understand the goals and content of a module. It will also facilitate reporting and aggregation of module content (e.g. creating a script that makes a searchable/sortable database with module names and keywords). 
+
+The simple structure (still in development and subject to change) is the following: 
+    - Every module must have an OVERVIEW file in the top directory of the module. 
+    - A folder named studentMaterials should contain all assignments, slides, handouts, etc...
 
