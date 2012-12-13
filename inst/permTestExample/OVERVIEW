@@ -1,0 +1,8 @@
+Module: permTestExample
+Title: A lesson in resampling
+Version: 0.1
+Date: 2012-12-06
+Author: Nicholas G. Reich
+Maintainer: Nicholas G. Reich <nick@schoolph.umass.edu>
+Description: The permTestExample module contains a handout for students about resampling techniques. Additionally, there is a group assignment to explore a dataset with zero-inflated data and a solo assignment for simulating/replicating the dataset.
+Keywords: resampling, permutation tests, bootstrapping

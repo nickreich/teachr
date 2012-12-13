@@ -6,7 +6,7 @@ Modules for problem-based lesson plans with R
 
 **teachr faciliates the sharing and development of open-source problem-oriented statistics curricula and lesson-plans.**  Are you looking for an interesting new statistical computing lesson to include in an upcoming course? Browse the teachr content to see if any of the available modules might save you from reinventing  the wheel.  
 
-Also, it is easy to contribute course materials that you have created. And _teachr creates a platform to make your materials easily available to others_.
+Also, it is easy to contribute course materials that you have created. And **teachr creates a platform to make your materials easily available to others**.
 
 # How does teachr work?
 
