@@ -12,3 +12,4 @@ Description: This package contains teaching modules for learning statistics
 License: GPL (>= 2)
 Collate:
     'module.copy.R'
+    'module.list.R'
